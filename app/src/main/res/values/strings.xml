@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">10119194Latihan3</string>
+    <string name="monitory">Monitory Membantu Anda</string>
+    <string name="control">Mengontrol Hp Anak</string>
+    <string name="mulai">Mulai</string>
+    <string name="beli_code">Beli Kode Keluarga Disini</string>
+    <string name="code_keluarga">Kode Keluarga</string>
+    <string name="code_keluarga_desc">Ketikkan kode keluarga yang Ayah Bunda\nmiliki disini</string>
+    <string name="tombol">Dengan menekan tombol masuk berarti Anda menyetujui</string>
+    <string name="tombol_desc"><b>Ketentuan Pengguna</b> dan <b>Kebijakan Data</b> kami</string>
+    <string name="masuk">Masuk</string>
+    <string name="belum_punyakode">Belum Punya Kode Keluarga?</string>
+    <string name="nama_panggilan">Nama Panggilan Kamu</string>
+    <string name="umur">Umur Kamu</string>
+    <string name="next">Selanjutnya</string>
+    <string name="say_hii">Beres! Sekarang Ferdy\nudah bisa ngecek\npenggunaan Hp mu\ntiap hari buat bantu Ferdy\nngatur waktu :)</string>
+    <string name="okeee">Oke</string>
+</resources>
